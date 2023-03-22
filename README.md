@@ -1,4 +1,6 @@
-# bookshelf-API #javascript #hapi
+# bookshelf-API 
+# javascript 
+# hapi
 
 Step 1
 Download the code or copying it by using the clone command
